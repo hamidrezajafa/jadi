@@ -1,1 +1,27 @@
-"db.sqlite3"
+db.sqlite3
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Database files
+db.sqlite3
+
+# Media and static files
+media/
+static_root/
+
+# Sensitive configuration files (example - adjust as needed)
+.env
+local_settings.py
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Log files
+*.log

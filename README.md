@@ -1,3 +1,3 @@
 # hesabdari
 
-dakhl , kharj
+dakhl & kharj
